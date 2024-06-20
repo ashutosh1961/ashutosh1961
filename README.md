@@ -1,4 +1,4 @@
-![logo](https://github.com/ashutosh1961/ashutosh1961/blob/main/Ashutosh%20kabade%20bkg.png)
+![logo](https://github.com/ashutosh1961/ashutosh1961/blob/main/ashutosh%20bg.png)
 
 
 <h1 align="center">Hi 👋, I'm Ashutosh Kabade</h1>
