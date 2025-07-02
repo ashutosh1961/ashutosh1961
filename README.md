@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kabadeashutosh" target="blank"><img src="https://img.shields.io/twitter/follow/kabadeashutosh?logo=twitter&style=for-the-badge" alt="kabadeashutosh" /></a> </p>
 
-- 🔭 I’m currently pursuing **B.tech in Computer Science and Engineering**
+- 🔭 I’m currently pursuing **B.tech in Electronics and Computer Engineering**
 
 - 📫 How to reach me **ashutoshkabade1961@gmail.com**
 
